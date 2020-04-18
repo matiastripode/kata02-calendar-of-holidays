@@ -39,4 +39,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hernan Wilkinson and [10pines](https://university.10pines.com/webinars_and_videos) for sharing such amazing knowledge
+* [Hernan Wilkinson](https://www.linkedin.com/in/hernanwilkinson/) and [10pines](https://university.10pines.com/webinars_and_videos) for sharing such amazing knowledge
