@@ -9,7 +9,7 @@ Esta kata esta inspirada por la presentacion de Hernan Wilkinson en [Charlas en 
 
 2. **Pasos de TDD** (Red ![#f03c15](https://placehold.it/15/f03c15/000000?text=+), Green ![#c5f015](https://placehold.it/15/c5f015/000000?text=+), Refactor).
 
-2.1. Escribe un test (el mas simple posible). No te preocupes por el nombre, utiliza una nomenclatura incremental como ```test01_YYY```, ``` test02_YYYY```, etc. El test debe fallar. (Red ![#f03c15](https://placehold.it/15/f03c15/000000?text=+))
+2.1. Escribe un test (el mas simple posible). No te preocupes por el nombre al principio (la idea es no caer en analisis paralisis). Utiliza una nomenclatura incremental como ```test01_YYY```, ``` test02_YYYY```, etc. El test debe fallar. (Red ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)). Una vez que ganes conocimiento de lo que estas desarrollando podras poner un mejor nombre, esto se explica mejor en el video linkeado mas arriba.
 
 2.2. Escribe la minima cantidad de codigo fuente que haga que la prueba pase.(Green ![#c5f015](https://placehold.it/15/c5f015/000000?text=+))
 
