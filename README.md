@@ -1,5 +1,5 @@
 # kata02-calendar-of-holidays
-Esta kata esta inspirada por la presentacion de Hernan Wilkinson en [Charlas en Línea: Esencia y Fundamentos de TDD](https://www.youtube.com/watch?v=4t0ZxUXnwN4)
+Esta kata esta inspirada por la presentacion de Hernan Wilkinson en [Charlas en Línea: Esencia y Fundamentos de TDD](https://www.youtube.com/watch?v=4t0ZxUXnwN4). La idea de este repo es inspirar a los developers que no hayan intentando TDD y quieran ver de que se trata. Aqui no pretendo presentar un curso detallado de TDD, para ello seria importante que se dirigan a las *Referencias* mas abajo.
 
 1. **Como aprovechar y aprender de los videos donde se resuelven Katas utilizando TDD**
 
@@ -33,6 +33,13 @@ Esta kata esta inspirada por la presentacion de Hernan Wilkinson en [Charlas en 
 
 4. **Musica** para ayudarte a que te mantengas en la zona de foco [radio de x-team](https://radio.x-team.com/)
 
+## Referencias
+- [Diseño ágil con TDD] (https://uniwebsidad.com/libros/tdd)
+- [10 Pines University] (https://university.10pines.com/webinars_and_videos)
+
+## Cursos en ingles (pagos)
+- https://www.udemy.com/course/tdd-csharp/
+- https://online-training.jbrains.ca/p/wbitdd-01
 
 ## Authors
 
