@@ -48,4 +48,4 @@ class CalendarOfHolidays:
         self.daysOfWeekHolidayRules.append(holiday_rule)
 
     def is_holiday(self, a_date):
-        return len(list(filter(lambda rule: rule.is_holiday(a_date), self.daysOfWeekHolidayRules))) > 0
+        return any( rule.is_holiday(a_date) for rule in self.daysOfWeekHolidayRules)
